@@ -84,3 +84,18 @@ You can use these three hashtags:
 - [Flutter Sprintles](https://docs.google.com/forms/d/e/1FAIpQLSe4F6R4S1NMrwM9GpEKYqfsxDcX9F8S8hdD8ykJsHECTThV5w/viewform?vc=0&c=0&w=1)
 - [Full Stack](https://docs.google.com/forms/d/e/1FAIpQLSfQpS15zO_WxGxsE53eFXgE5gDmySSaU_XbVGhNhtSPtzCKBg/viewform?vc=0&c=0&w=1)
 
+8.) Submitting the code
+-
+Flutter hackathon committee made a dedicated page https://codemagic.io/showcase where everyone can submit their app that they make during the hackathon.
+
+To submit your application, you must:
+
+- Build your app successfully on Codemagic
+- Copy the build ID of the green build, which you can find in the build url
+- https://codemagic.io/app/applicationID/build/buildID
+- Use the promocode Jollygreengiant19
+
+To help your apps reach more people the and acnowledge the hard work everyone puts in during the hackathon we'll showcase the apps on the page.
+
+You can submit your apps until the 5th of June the latest. Any questions, feel free to email me directly or ping me on Slack.
+
