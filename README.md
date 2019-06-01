@@ -11,22 +11,26 @@ Meetup:  https://www.meetup.com/Globant-UI-Engineering-Events/events/261325770/
 Note: Your Hub: Globant India (Select this Hub only otherwise your project and participation won't be considered.)
 
 
-2.) Theme details
+2.) Getting started
+-
+https://flutterhackathon.com/#getting-started
+
+3.) Theme details
 -
 Coming soon...
 
-3.) Rules
+4.) Rules
 -
 - Project must be related to the theme.
 - Team must consist of at least 2 people.
 - Code should be hosted in a public repo.
 - Project must be completed by the end of your hackathon (local time).
 
-4.) Live streaming link:
+5.) Live streaming link:
 -
 https://www.youtube.com/channel/UCNUzIz3TsiHSbgn_66kLIww
 
-5.) Sharing on social media
+6.) Sharing on social media
 -
 We encourage you to make this event more live by sharing on social media such as:
 - Twitter
