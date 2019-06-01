@@ -17,7 +17,27 @@ https://flutterhackathon.com/#getting-started
 
 3.) Theme details
 -
-Coming soon...
+few concrete ideas:
+
+- Social network
+- Chat/Slack alternative
+- Job finder
+- Mentor matcher
+- Text translation
+- Stack Overflow search
+- Code search
+
+Some technologies you could use:
+
+- Firebase
+- ML Kit
+- Vision Processing
+- Translation API
+- Natural Language Processing
+- Recommendations
+- Conversational Agents
+- Speech-to-Text
+
 
 4.) Rules
 -
