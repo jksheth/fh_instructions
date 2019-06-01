@@ -60,3 +60,27 @@ We encourage you to make this event more live by sharing on social media such as
 You can use these three hashtags:
 **#Globant**, **#Hack19**, and **#redbull** (Top tweets will get some cool swag from Globant)
 
+7.) Voting for teams
+-
+- [Trail Blazers](https://docs.google.com/forms/d/e/1FAIpQLSf1Ar8mmEjbQVpTCT3hhyv131dqdJ1gVLgHh1amb5-eCL9AWA/viewform?vc=0&c=0&w=1)
+- [Volt](https://docs.google.com/forms/d/e/1FAIpQLSe-QcUK1WqLnZr7U24JUL0zuoh4jCmbodLURso-Tra9AGmZoA/viewform?vc=0&c=0&w=1)
+- [Four Point](https://docs.google.com/forms/d/e/1FAIpQLScuvphALfS_muL0ScFWum9ZJ7vZVH-pE8d9oD28nJzVFw9CJg/viewform?vc=0&c=0&w=1)
+- [Flutter Stark](https://docs.google.com/forms/d/e/1FAIpQLSctcn7dll4J0z8Vqf22MXzBblGewQWPMo7WVCvFE9chepuCVw/viewform?vc=0&c=0&w=1)
+- [iAndroid](https://docs.google.com/forms/d/e/1FAIpQLScRO4_Rr-tl9XqpGHrxG2s7K8bvONL0aomEIJgHmsn6csBoQQ/viewform?vc=0&c=0&w=1)
+- [Flutter Azzi](https://docs.google.com/forms/d/e/1FAIpQLSeXlPprbl_fdD_RqLLEMCCsuQVUqeWJZvdjSjgjUQrQPNXeGQ/viewform?vc=0&c=0&w=1)
+- [Joogsquad](https://docs.google.com/forms/d/e/1FAIpQLSdZd7sFf_ds2m1MLIdUH5cdm9f2GRWIvsArokeMPhID6EhLYQ/viewform?vc=0&c=0&w=1)
+- [Flutter Voodoo](https://docs.google.com/forms/d/e/1FAIpQLSepkL8rHKep2vnuOmH1FigWUxCphjvy1QenFQrVVHZf4EVrBg/viewform?vc=0&c=0&w=1)
+- [Flutter Fly](https://docs.google.com/forms/d/e/1FAIpQLSfHSJNIvTNZCksQjL95d8hNsu20RzDoH8hCVvW9aUT-_eAE2A/viewform?vc=0&c=0&w=1)
+- [Fighter](https://docs.google.com/forms/d/e/1FAIpQLSdSQs80vEqI_F7tzP4A5rn5bfQAQrGWyB2BWoZYuC6_wu4twg/viewform?vc=0&c=0&w=1)
+- [Royals](https://docs.google.com/forms/d/e/1FAIpQLSeQXPr08yNetkOB8tYjhly7nCCa5g_6MC6o_Dd4KPVfm9yuPQ/viewform?vc=0&c=0&w=1)
+- [Team NonStop](https://docs.google.com/forms/d/e/1FAIpQLScRrR0-SzhtctnaE5Y1ytyVmu2tHYAHzEfiT5HodnKEyJclFA/viewform?vc=0&c=0&w=1)
+- [Comet](https://docs.google.com/forms/d/e/1FAIpQLSfkucl84u5JYAet_62DuRQvGKyHJzgQ-jTWR1RV7xQDW_ZlFw/viewform?vc=0&c=0&w=1)
+- [Httpsters](https://docs.google.com/forms/d/e/1FAIpQLScgVJu1_J3MTuAaFTgIaIv2TH-01z60sMgrYrNUQPfYnZFsew/viewform?vc=0&c=0&w=1)
+- [Thanos power Stone](https://docs.google.com/forms/d/e/1FAIpQLSfc8vwys4Esoa4jmri-5V2elQmyirU5dW46zqMwVjYWpvZtMQ/viewform?vc=0&c=0&w=1)
+- [Flutter Ninja](https://docs.google.com/forms/d/e/1FAIpQLSdcETssgTNEHxgW6NY5OU-vKC2TNFx0i8YQ0qM7I25yU5BFgQ/viewform?vc=0&c=0&w=1)
+- [Trojan Wave](https://docs.google.com/forms/d/e/1FAIpQLSeuyi73HHc9tVVuU_-pHCdUx3cVuaWJ8_u42rsj0PV6GxvX0g/viewform?vc=0&c=0&w=1)
+- [Fluttary Nibble](https://docs.google.com/forms/d/e/1FAIpQLSfd6eHFzAo7ycWHbgnA_lDVi73h8Fm5JRZ-fwNhruqxWmMbcA/viewform?vc=0&c=0&w=1)
+- [Dart Vaders](https://docs.google.com/forms/d/e/1FAIpQLSeU0CmwOmS6HEHj0vj3-11jNgVkEs_b2ILrbpm-LlfQK5dlFg/viewform?vc=0&c=0&w=1)
+- [Flutter Sprintles](https://docs.google.com/forms/d/e/1FAIpQLSe4F6R4S1NMrwM9GpEKYqfsxDcX9F8S8hdD8ykJsHECTThV5w/viewform?vc=0&c=0&w=1)
+- [Full Stack](https://docs.google.com/forms/d/e/1FAIpQLSfQpS15zO_WxGxsE53eFXgE5gDmySSaU_XbVGhNhtSPtzCKBg/viewform?vc=0&c=0&w=1)
+
