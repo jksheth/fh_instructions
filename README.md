@@ -13,7 +13,7 @@ Note: Your Hub: Globant India (Select this Hub only otherwise your project and p
 
 2.) Theme details
 -
-The team can pick any theme and start developing.
+Coming soon...
 
 3.) Rules
 -
