@@ -1,5 +1,21 @@
 # Flutter hackathon instruction and FAQs: (Keep visiting this page to get the latest update)
 
+## Results for Hack#19 
+
+Thanks to all the participants and judges for voting and helping us decide the best project from the hub.
+It was a close contest between many teams and we are pleased to announce the winners below, who have won with a very narrow margin of just 7 points:
+
+### The winning team - Team Flutter Ninja
+
+### Runner up - Team Flutter Azzi
+
+Please find the results of all the teams here:
+https://github.com/jksheth/fh_instructions/blob/master/Hack%2319%20Voting%20results.pdf
+
+
+
+*PS:The results are in a random order*
+
 1.) Check-in details (Mandatory)
 -
 Globant: https://forms.gle/m7h8oNtkSJXRVnU1A 
@@ -98,4 +114,5 @@ To submit your application, you must:
 To help your apps reach more people the and acnowledge the hard work everyone puts in during the hackathon we'll showcase the apps on the page.
 
 You can submit your apps until the 5th of June the latest. Any questions, feel free to email me directly or ping me on Slack.
+
 
