@@ -6,6 +6,8 @@ Thanks to all the participants and judges for voting and helping us decide the b
 It was a close contest between many teams and we are pleased to announce the winners below, who have won with a very narrow margin of just 7 points:
 
 ### The winning team - Team Flutter Ninja
+You can vote this team on below link
+https://vote.flutterhackathon.com
 
 ### Runner up - Team Flutter Azzi
 
